@@ -1,3 +1,3 @@
-#CONTRIBUTING
+# CONTRIBUTING
 
 ### Em Desenvolvimento
